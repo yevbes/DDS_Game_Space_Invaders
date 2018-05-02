@@ -19,7 +19,7 @@ namespace SpaceInvaders
             Principal principal = new Principal();
             principal.FormBorderStyle = FormBorderStyle.FixedSingle;
             Application.Run(principal);
-            // Coentario prueba
+            // Comentario prueba
         }
     }
 }
