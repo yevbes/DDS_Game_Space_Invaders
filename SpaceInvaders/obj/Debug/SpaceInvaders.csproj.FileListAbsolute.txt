@@ -11,3 +11,16 @@ C:\Users\yevbe\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.
 C:\Users\yevbe\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Principal.resources
 C:\Users\yevbe\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.EscenarioForm.resources
 C:\Users\yevbe\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.PauseForm.resources
+C:\Users\Alex\source\repos\DDS_Game_Space_Invaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\Users\Alex\source\repos\DDS_Game_Space_Invaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\Alex\source\repos\DDS_Game_Space_Invaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\Alex\source\repos\DDS_Game_Space_Invaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\DDS_Game_Space_Invaders\SpaceInvaders\obj\Debug\SpaceInvaders.EscenarioForm.resources
+C:\Users\Alex\source\repos\DDS_Game_Space_Invaders\SpaceInvaders\obj\Debug\SpaceInvaders.ModalCredits.resources
+C:\Users\Alex\source\repos\DDS_Game_Space_Invaders\SpaceInvaders\obj\Debug\SpaceInvaders.PauseForm.resources
+C:\Users\Alex\source\repos\DDS_Game_Space_Invaders\SpaceInvaders\obj\Debug\SpaceInvaders.Principal.resources
+C:\Users\Alex\source\repos\DDS_Game_Space_Invaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\Alex\source\repos\DDS_Game_Space_Invaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\DDS_Game_Space_Invaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\DDS_Game_Space_Invaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\Alex\source\repos\DDS_Game_Space_Invaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
